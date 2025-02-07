@@ -136,12 +136,6 @@ Este proyecto fue desarrollado por estudiantes de la Universidad Americana (UAM)
 - Andrea Johanna Duarte Guerrero - Desarrollador
 - Carlos Alfredo Abea Martinez - QA 
 
----
-## 📬 Contacto
-
-Correo del lider: dsancheza@uamv.edu.ni
-**Universidad Americana (UAM)**
-
 
 
 
